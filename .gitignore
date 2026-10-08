@@ -1,0 +1,13 @@
+# Audit output produced by the script (may contain account IDs / customer data)
+IM_Bedrock_Audit_*.txt
+bedrock-audit-*/
+
+# Temp files
+*.tmp
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
